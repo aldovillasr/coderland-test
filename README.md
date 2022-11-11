@@ -1,8 +1,6 @@
 # coderland-test
 
-Please execute it by using
-
-Clean and Install with Maven
+Please execute it by using clean and Install with Maven
 
 ```bash
   mvn clean install
